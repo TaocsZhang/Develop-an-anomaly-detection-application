@@ -23,5 +23,5 @@ def make_prediction():
     return y_test_pred
 
 
-#if __name__ == "__main__":
-#    make_prediction()
+if __name__ == "__main__":
+    make_prediction()
